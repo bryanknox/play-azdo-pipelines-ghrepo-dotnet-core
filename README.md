@@ -1,4 +1,13 @@
-# Sample ASP.NET Core application for Azure Pipelines docs
+## 
+This is a GitHub repo for playing with Azure DevOps Pipelines for a GitHub repo.
+The associated Azure DevOps project is at: https://dev.azure.com/xpirit/BryanKnox-AzDoPipelineGHRepoPlay
+
+*This repo was forked from: https://github.com/MicrosoftDocs/pipelines-dotnet-core*
+*And related to docs at: [Create your first pipeline - Azure Pipelines | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=net%2Cbrowser)*
+
+
+## -- Original README text follows --
+## Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
